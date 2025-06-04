@@ -86,16 +86,6 @@
 		(uuid "1af937b8-d2c7-4a90-86fa-f95d6b6e2fc6")
 	)
 	(fp_line
-		(start -3 0)
-		(end 3 0)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "8d0e8278-4d3c-4b10-900e-e0a821da624d")
-	)
-	(fp_line
 		(start -3 -12.5)
 		(end 3 -12.5)
 		(stroke
@@ -174,19 +164,6 @@
 		)
 		(layer "F.CrtYd")
 		(uuid "064b927d-50cb-4cf9-b6eb-e0f16d8b00a7")
-	)
-	(fp_text user "PCB EDGE"
-		(at 1 0.5 0)
-		(unlocked yes)
-		(layer "Dwgs.User")
-		(uuid "878f5842-7dc9-497d-9938-c3fd04196c98")
-		(effects
-			(font
-				(size 0.3 0.3)
-				(thickness 0.075)
-			)
-			(justify left bottom)
-		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -8.5 0)
