@@ -1,3 +1,12 @@
 [submodule "JLCPCB-Kicad-Library"]
 	path = JLCPCB-Kicad-Library
 	url = git@github.com:CDFER/JLCPCB-Kicad-Library.git
+[submodule "footprints/kicad-footprints"]
+	path = footprints/kicad-footprints
+	url = https://gitlab.com/kicad/libraries/kicad-footprints.git
+[submodule "symbols/kicad-symbols"]
+	path = symbols/kicad-symbols
+	url = https://gitlab.com/kicad/libraries/kicad-symbols.git
+[submodule "models/kicad-packages3D"]
+	path = models/kicad-packages3D
+	url = https://gitlab.com/kicad/libraries/kicad-packages3D.git
